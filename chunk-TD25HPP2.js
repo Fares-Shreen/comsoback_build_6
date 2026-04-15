@@ -1,0 +1,1 @@
+import{Ta as i}from"./chunk-DRSXVIV6.js";var n=class r{transform(t,e){return t.filter(o=>o.name.toLowerCase().includes(e.toLowerCase())||o.code.toString().toLowerCase().includes(e.toLowerCase()))}static \u0275fac=function(e){return new(e||r)};static \u0275pipe=i({name:"searchProductsPipe",type:r,pure:!0})};export{n as a};

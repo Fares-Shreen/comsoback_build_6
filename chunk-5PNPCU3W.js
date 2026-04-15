@@ -1,0 +1,1 @@
+import{q as i}from"./chunk-OG7LMZQV.js";import{K as t,P as r}from"./chunk-DRSXVIV6.js";var n=class e{_HttpClient=r(i);getIngredientCat(){return this._HttpClient.get("https://cosmopack-api-production.up.railway.app/ingredient-cat")}static \u0275fac=function(o){return new(o||e)};static \u0275prov=t({token:e,factory:e.\u0275fac,providedIn:"root"})};export{n as a};

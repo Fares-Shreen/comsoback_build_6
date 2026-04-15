@@ -1,0 +1,1 @@
+import{q as n}from"./chunk-OG7LMZQV.js";import{K as e,P as o}from"./chunk-DRSXVIV6.js";var i=class t{_HttpClient=o(n);getProducts(r){return this._HttpClient.get(`https://cosmopack-api-production.up.railway.app/product?page=${r}&size=20`)}static \u0275fac=function(a){return new(a||t)};static \u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})};export{i as a};
